@@ -1,5 +1,5 @@
 {
-  "base_url": "/jupyter/cculqckigp2f8lgio4on91kk1g/",
+  "base_url": "/jupyter/vk0mqvntoud6r13ps6h78pgnsk/",
   "hostname": "127.0.0.1",
   "notebook_dir": "/home",
   "password": false,
@@ -7,5 +7,5 @@
   "port": 16000,
   "secure": false,
   "token": "",
-  "url": "http://127.0.0.1:16000/jupyter/cculqckigp2f8lgio4on91kk1g/"
+  "url": "http://127.0.0.1:16000/jupyter/vk0mqvntoud6r13ps6h78pgnsk/"
 }
